@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "airlineofficehubs",
+  "private_key_id": "39fea80b9df9e4a5097a36e2243dc2e99b9dcb12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv78Txex9VTHhT\n2+audCFZn2fkPQ7XE3yiPlJ0K8uYTvZLETxG0ghIX7LvtcnMq5CpOIkHobHdCbVO\n7Ip11aQBzxOpyDk/v3AMCUiZs4a9odXMQaDt/CftSMwWiIcUS9IlYruIAtxUW0w0\nWG+TAMJ6dDE6ra33vpcZlC5rkUUF5IJ2cmmzT58wFvdXEz9SNv+QayL68NX70IS/\n+unqplnA/k2RW8WdS0aBQTOePTwDlWwzgGoYf+Kh9dCCy1n892gpECIN4GV2GN4F\nptcBFOUsSlmILN8VVqqr8jjrDyUjW7iw0Iq6s2nqUw5yvYpmPwLJh0PLDBSYHVDZ\niEa8C/UlAgMBAAECggEALMTJ7BrE59ssGUaxJf42CEy4Tos87fyu78gFCjuktI6P\nPJ3XpTvH0MbNTRMIlTSo/G5+6/q4vEK+qKUnPIHPGIi9e6wP6UlI9T8dgsL8i9+U\n/ENM9JIABPDLwgYevUrn4AyGJL95mlubAgzo41LDqg5MAp70UEDmySL8RvHxyuQl\nO12wbIK1JTq62fzPjO3H1qLCK66PCx9E0trICfzwbrBdxr9ZzUYljeCMWutLzB1p\nYpt3QYq7GwqN7zQ/EB0PYTwpuunZRtXalZk+PVEuAtZKwp+wwvunHsRNqFrssspv\ncnWui9W64+s+zNfrPYTy0gfxTIyKi01AI8zK5cpoBwKBgQDcTfciqm6geVrAJtWC\nDiJhxBzOo9bpP6vPeVhVrSZ17MAM6fMSmAWimT7+1EoqmUyLdrhC7Z9NzVvmr29d\nzHxFSoTzemAuVkF79c5kk8DrfCa2EzeA2WEWnT2W+WX7dDAK6Tb4WFwFlLpgG683\n752TmXEh5qa2rUBJf2AyGEn7RwKBgQDMcXYNv+QMI6EJFhKv4FE9qAmyx7hN/PFO\naj9l8/gJC6PgVyMPGe9osoRFbA+QUKsdwdOw+v91IGjOW9tsrujTk8DTiz2mlbI6\nMjv4OZbDI2G7SGcydVWyWpA+jUebVOevk83HwF6MuGx3iSxksY9aduGG/l1SUIU+\nyJ2FHWDqMwKBgQCiNsZCQDw07SZlVjLgEIhAdKbBgOI93SQlILRqYZRwQGMpHxpc\nFpQPpcc83BPASiCSkFgc79rc7tk8gvD9oBPg8X3zyagIdnrBS70tUZ47xq66Ymv7\n9BQJEr7G69yrymGVpyNSub0IXvrcyYW7KjRc+h7TV4JqACfV9nReboQLAQKBgEPw\nlK2/DjbmhDZzymP+JKFbvVVXP61TGJHZhxYHfG7tGlmMO49iLAhcAs7bOVTZKfRq\nnEHdN5Wh3pJtPj8g5Siimlryk9tPNfpXBUzZPnu8v1awmfLPwVnS9MqEwr4g+hmE\nAceW6xTSmOEkiccwppYGma31y+d18MHLg2VgPPu3AoGAZ8SDOrgjrKb3d0aWE7mT\nXF47ivS3wij3lM2YEN4p41vmyKtn05PN8uKKYf/3UJif5VPGuddfZkwS8rfKH99G\nuqnejzwtaz6Sm2BfUBrUgTpGtA7BgkUWCUq4RfjlpYmqVgS3Gzns+BXowERhPt+8\ncQgCNCBAg+wNQy3ZAKugH4k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gi-api-service-account@airlineofficehubs.iam.gserviceaccount.com",
+  "client_id": "107005639232129991015",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gi-api-service-account%40airlineofficehubs.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

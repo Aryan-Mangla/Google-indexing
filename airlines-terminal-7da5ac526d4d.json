@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "airlines-terminal",
+  "private_key_id": "7da5ac526d4d83c9de1b3620df999744a22095ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3yzRqXILaZ7oR\ngcJblL6uLT2QIefvsk25/7fGYXV8x8PlMkuGhk3Qyr7e7r6EW5uqdIsf7B/KqcDB\nXPz5nVjnT+q4f6FFlWfWj6C6wuBfvh6uXFuKUQBiLtCiYaHupjeNbr8w5rpjp5z8\ndHoZzQyREtnBvDVwMJogIw5k3Xbu0icrmNAZ5nIE1w0S1ICvKk3mZHt4Zg8Seq0x\nWe9YSX3KnTl8khnXrIxEMpEv2ao23luTAmbnTUEp4Uw09Fcr1ET48VACARpLRGAS\nMDW4owrAfSWPoQPb9mie6sKOqdrl2PcpnZOox38EU/z3ieJUTqWIFI4kwBTUPPGn\nt4YFtB4hAgMBAAECggEAEo5yLYDx9zd8z6gFuwsIENGMLda2h6VoIpeLyFGZCURU\nEM/PVKGPuWfBoK7YeR2Urb+UN7YL5FbXmXjtfmL2vG1TBKtiLtfYWDnqdPYYWEz7\nj7LPIpEYvvunYJWx7Jnx8ZYqYzdlvzUHl8JHfP5jvpakJLgqFGMxKdMlm2UezRrV\nGxT6z92aFBhlWX0VX0xMiETxrdFtSDfsXNrsFtOdFipEh8WWuiEX17eIIghv/nYJ\nfglrg8DjjVg8rIMRLSwDUFLSXfN2iuMKyNIXvpu1Nf2qp0/umpC5KNZmlY/kRowK\nVTHfdpNwNkfY7J4YaA5JNQq2b0dN0//jCn8G4n1nbwKBgQDrdXIpYHVPvVMbBv20\nmZAlo4E8SUNa93SdTaGE14D7fM7ZC78xC4Kppx6OVF2IEWakr998EabXfr22dm2v\nbBlelDEowujB32tZv02PCM4CV9Ktieu98hhv5V3BVFQZDwOoZKps4R9ccAD8DZVe\nG3kvYeeAO9W76lrWEdLRZWxfDwKBgQDH0+md4IIqb2YFguoDA8XRck8EgHZt9n49\nkHM/kv99XeF2V/5iF7YTnUbG9scD6ifoJg2B3tlSh5/AMi2UOJMt+zodF8fSDZQH\nXgNkfqdQztlL6TXO7nO1nbSEFSfVOzaJznCnNEl23+uuvUgAGv2Vvtpm91zwy7De\nI4GRsGivzwKBgE2L0J1v9zLb15L/Km9gY+kBgH6qYlSDSxTDjH6DuycYY8d35u/w\nKohVUeruPh+iG3wBsEjcR2aRh0mgl18+6twLUmVqS94OBvz31ENXUwHSisA8vDdC\nlGnF0KrrawcVus6q2LYjLoDzIl/g2WC1C6RfSi8hhbLt7By0ogn0rUxhAoGBAI+F\nNj88JoEP7Xh75FMx/HxH21TiZyznYxgYjY3VqEaEjRCQdpZBbXZ8+X6hc6LuJKdp\n3T2vrurFmglSgMX6NEtMKxsGH3BQbEc2UL128fjp98u7vffX76c7k5FiGG/fzXYA\nnYyZ00Hb5cxlCjd5KzTIFNjrRQd1ZJzHZ6IZz7alAoGBANFMqnnotFgDsB0qVXNR\neNqeWLsAx0Hk4MUXLnIeSQKlvM6mf60bQiZhPn/2D0TlHRPKsQRqvSJdbW7HgjTl\nD1VB2po53eJlYf1OnMK6Cd3xvEts5WrVCf5Bic4HXJaLWfdvIXL/D6vCdOzp1q0G\ncc+FQMambJByv4q0gIHTMeks\n-----END PRIVATE KEY-----\n",
+  "client_email": "airlines-terminals-json@airlines-terminal.iam.gserviceaccount.com",
+  "client_id": "113129633746081662064",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airlines-terminals-json%40airlines-terminal.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
